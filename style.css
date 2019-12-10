@@ -1,0 +1,88 @@
+
+.banner {
+	width: 100%;
+	height: 500px;
+	background-image: url(https://images.pexels.com/photos/352092/pexels-photo-352092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-size: cover;
+}
+
+
+
+head {
+	color: black;
+	text-align: center;
+	font-size: 100px;
+	font-family: 'font-family: 'Noto Serif', serif';
+}
+
+
+h1 {
+	color: black;
+	text-align: center;
+	font-size: 150px;
+	font-family: 'font-family: 'Noto Serif', serif';
+}
+
+h2 {
+	color: black;
+	text-align: center;
+	font-size: 60px;
+	font-family: 'font-family: 'Noto Serif', serif';
+}
+
+.card {
+	width: 50%;
+	height: 800px;
+	background-image: url(https://images.pexels.com/photos/257961/pexels-photo-257961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	}
+
+	a {
+		text-decoration: none;
+		padding: 20px 50px;
+		background-color: black;
+		border-radius: 20px;
+		text-align: center;
+		color: white
+	}
+
+	
+
+.autre {
+	width: 50%;
+	height: 800px;
+	background-image: url(https://images.pexels.com/photos/848682/pexels-photo-848682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	display: flex;
+	justify-content: space-between;
+	background-size: cover;
+}
+
+.global {
+	display: flex;
+
+}
+
+h3 {
+	color: orange;
+	font-size: 70px;
+	font-family: 'font-family: 'Noto Serif', serif';
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	}
+
+		.card2 {
+		width: 100px;
+		height: 100px;
+		background-image: url(https://www.facebook.com/photo?fbid=1650185535026780&set=a.136030543108961);
+		border-radius: 20px;
+		}
+.fab {
+	font-size: 50px;
+	justify-content: center;
+}
